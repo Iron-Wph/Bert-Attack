@@ -1,0 +1,20 @@
+>>>>>> Eval roberta synonym attack results:
+Accuracy: 0.8728
+Precision: 0.9991
+Recall: 0.7671
+F1-score: 0.8679
+>>>>>> Eval roberta sentence attack results:
+Accuracy: 0.9474
+Precision: 0.9992
+Recall: 0.9041
+F1-score: 0.9493
+>>>>>> Eval MACBERT synonym attack results:
+Accuracy: 0.8748
+Precision: 0.9991
+Recall: 0.7707
+F1-score: 0.8702
+>>>>>> Eval MACBERT sentence attack results:
+Accuracy: 0.9639
+Precision: 0.9992
+Recall: 0.9344
+F1-score: 0.9657
